@@ -1,0 +1,13 @@
+.header {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: chocolate;
+}
+
+.link:not(:last-child) {
+    margin-right: 10px;
+}

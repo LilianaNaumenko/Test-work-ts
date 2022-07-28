@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    color: #909090;
+}
+
+.input {
+    width: 500px;
+}
